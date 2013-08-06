@@ -27,7 +27,7 @@ Our aim is to extend TypeScript with this module that ensure well-known collecti
 
 It generates `.js` files.
 
-	qunit -c .\lib\hashset.js -t .\spec\hashset_spec.js
+	qunit -c .\spec\hashset_spec.js -t .\spec\hashset_spec.js
 
 
 ### Using Visual Studio ###
